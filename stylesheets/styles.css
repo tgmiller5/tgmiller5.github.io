@@ -18,18 +18,7 @@ ol li {
     height:auto;
 }
 
-}
-		@media (min-width: 768px) {
-			.mugshot {
-				left: auto;
-				margin: 0;
-			}
-		}
-		@media (min-width: 1200px) {
-			.mugshot {
-				top: -190px;
-			}
-		}
+
 		.twitter-timeline {
 			margin-top: 20px !important;
 		}
