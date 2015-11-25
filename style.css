@@ -52,39 +52,23 @@
 		.contactform {
 			padding-top: 20px;
 		}
-		.div-1a {
- position:absolute;
- top:0;
- right:0;
- width:200px;
-}
-.div-1b {
- position:absolute;
- top:0;
- left:0;
- width:200px;
-}
-.container {
-   height: auto;
-   overflow: hidden;
+		#container {
+    width:100%;
+    text-align:center;
 }
 
-.right {
-    width: auto;
-    float: right;
-    background: #aafed6;
-    
+#left {
+    float:left;
+    width:100px;
 }
 
-.center {
-    width: auto;
-    float: center;
-    background: #aafed6;
+#center {
+    display: inline-block;
+    margin:0 auto;
+    width:100px;
+}
 
-.left {
-    float: none; /* not needed, just for clarification */
-    background: #e8f6fe;
-    /* the next props are meant to keep this block independent from the other floated one */
-    width: auto;
-    overflow: hidden;
+#right {
+    float:right;
+    width:100px;
 }
