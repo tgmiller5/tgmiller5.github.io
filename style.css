@@ -65,28 +65,20 @@
  width:200px;
 }
 .container {
-    width:100%;
-    text-align:center;
+   height: auto;
+   overflow: hidden;
+}
+
+.right {
+    width: 180px;
+    float: right;
+    background: #aafed6;
 }
 
 .left {
-    float:left;
-    width:100px;
-    height: 20px;
-    background: #ff0000;
+    float: none; /* not needed, just for clarification */
+    background: #e8f6fe;
+    /* the next props are meant to keep this block independent from the other floated one */
+    width: auto;
+    overflow: hidden;
 }
-
-.center {
-    display: inline-block;
-    margin:0 auto;
-    width:100px;
-    height: 20px;
-    background: #00ff00;
-}
-.right {
-    float:right;
-    width:100px;
-    height: 20px;
-    background: #0000ff;
-}
-
