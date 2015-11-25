@@ -52,23 +52,23 @@
 		.contactform {
 			padding-top: 20px;
 		}
-		#container {
+		.container {
     width:100%;
     text-align:center;
 }
 
-#left {
+.left {
     float:left;
     width:100px;
 }
 
-#center {
+.ccenter {
     display: inline-block;
     margin:0 auto;
     width:100px;
 }
 
-#right {
+.right {
     float:right;
     width:100px;
 }
