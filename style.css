@@ -4,54 +4,7 @@
 			height: 300px;
 			margin-bottom: 0;
 		}
-		.about-jess {
-			position: relative;
-		}
-		.mugshot {
-			position: absolute;
-			top: -275px;
-			right: 0;
-			left: 0;
-			margin: auto;
-			width: 250px;
-			z-index: 10;
-		}
-		@media (min-width: 768px) {
-			.mugshot {
-				left: auto;
-				margin: 0;
-			}
-		}
-		@media (min-width: 1200px) {
-			.mugshot {
-				top: -190px;
-			}
-		}
-		.twitter-timeline {
-			margin-top: 20px !important;
-		}
-		.caption h4 {
-			margin-top: 0;
-		}
-		.footer {
-			text-align: center;
-		}
-		.footer .container p {
-			padding-top: 15px;
-		}
-		.subcontact {
-			margin-top: 0;
-			margin-bottom: 30px;
-		}
-		.contacttitle {
-			margin-bottom: 0;
-		}
-		.contactsig {
-			margin-top: 30px;
-		}
-		.contactform {
-			padding-top: 20px;
-		}
+	
 		.container {
     width:100%;
     text-align:center;
