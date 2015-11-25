@@ -73,7 +73,13 @@
     width: auto;
     float: right;
     background: #aafed6;
+    
 }
+
+.center {
+    width: auto;
+    float: center;
+    background: #aafed6;
 
 .left {
     float: none; /* not needed, just for clarification */
