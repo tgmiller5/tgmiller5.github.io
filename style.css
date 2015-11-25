@@ -70,7 +70,7 @@
 }
 
 .right {
-    width: 880px;
+    width: auto;
     float: right;
     background: #aafed6;
 }
