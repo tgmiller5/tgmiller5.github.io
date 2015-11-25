@@ -64,19 +64,19 @@
  left:0;
  width:200px;
 }
-#container {
+.container {
     width:100%;
     text-align:center;
 }
 
-#left {
+.left {
     float:left;
     width:100px;
     height: 20px;
     background: #ff0000;
 }
 
-#center {
+.center {
     display: inline-block;
     margin:0 auto;
     width:100px;
