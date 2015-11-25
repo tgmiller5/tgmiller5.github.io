@@ -12,13 +12,13 @@
 
 .left {
     float:left;
-    width:100px;
+    width:auto;
 }
 
 .center {
     display: inline-block;
     margin:0 auto;
-    width:300px;
+    width:auto;
 }
 
 .right {
