@@ -10,21 +10,7 @@
     text-align:center;
 }
 
-.left {
-    float:left;
-    width:auto;
-}
 
-.center {
-    display: inline-block;
-    margin:0 auto;
-    width:auto;
-}
-
-.right {
-    float:right;
-    width:auto;
-}
 
 #container {
     width:100%;
