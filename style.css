@@ -12,19 +12,19 @@
 
 
 
-#container {
+.container {
     width:100%;
     text-align:center;
 }
 
-#left {
+.left {
     float:left;
     width:100px;
     height: 20px;
     background: #ff0000;
 }
 
-#center {
+.center {
     display: inline-block;
     margin:0 auto;
     width:100px;
@@ -32,7 +32,7 @@
     background: #00ff00;
 }
 
-#right {
+.right {
     float:right;
     width:100px;
     height: 20px;
